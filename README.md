@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sahrul Gunawan (sahruldxd)</h1>
+<h3 align="center">I am a website developer from Indonesia</h3>
 
-<!--
-**ShrlGnwn/ShrlGnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://discord.c99.nl/widget/theme-2/321665808830955521.png" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shrlgnwn&label=Profile%20views&color=0e75b6&style=flat" alt="shrlgnwn" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">About me:</h3>
+
+- 👨‍💻 All of my projects are available at [shrlgnwn.my.id](https://shrlgnwn.my.id) or [This Github](https://github.com/shrlgnwn?tab=stars)
+
+- 💬 Ask me about **Developing backend and frontend websites**
+
+- 📫 How to reach me **sahrulgunawan385@gmail.com@gmail.com**
+
+## 📊 Languages
+- ✨ Backend Development: **PHP & Python**
+- ✨ Frontend Development: **NuxtJS & VueJS**
+- ✨ Desktop Development: **C# & C++**
+
+## 🔧 Technologies & Tools
+*Python, C#, C++, MySQL, Postgres, Docker, Nginx, VueJS, GRPC, Firebase, Laravel, Postman, etc.*
