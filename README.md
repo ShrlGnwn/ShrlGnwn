@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Developing backend and frontend websites**
 
-- 📫 How to reach me **sahrulgunawan385@gmail.com@gmail.com**
+- 📫 How to reach me **sahrulgunawan385@gmail.com**
 
 ## 📊 Languages
 - ✨ Backend Development: **PHP & Python**
