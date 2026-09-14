@@ -5,7 +5,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 👨‍💻 All of my projects are available at [shrlgnwn.my.id](https://shrlgnwn.my.id) or [This Github](https://github.com/shrlgnwn?tab=stars)
+- 👨‍💻 All of my projects are available at [https://shrlgnwn.github.io/](https://shrlgnwn.github.io/)
 
 - 💬 Ask me about **Developing backend and frontend websites**
 
