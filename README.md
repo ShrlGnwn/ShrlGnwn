@@ -18,14 +18,13 @@
 
 ## 🧭 About me
 
-I'm a full-stack developer based in Indonesia. I build **business-critical web apps** — multi-outlet POS, accounting, travel & B2B platforms, clinic management — plus **desktop tooling and automation** on the side (game client tooling, Minecraft bot panels, LLM agent integrations).
+I'm a full-stack developer based in Indonesia. I build **business-critical web apps** multi-outlet POS, accounting, travel & B2B platforms, clinic management plus **desktop tooling and automation** on the side (game client tooling, Minecraft bot panels, LLM agent integrations).
 
 - 🏢 Currently building internal products at **Bafageh Group** (retail · F&B · travel · accounting)
 - 🌐 Integrated **third-party B2B APIs** — flight inventory, hotel reservations, live foreign-exchange, Midtrans payments, webhook-driven transaction updates
 - 🤖 Engineered a **RAG-powered AI assistant** for context-aware travel recommendations from internal data
 - ⚙️ Comfortable across the stack: **Next.js, NestJS, Laravel, Vue/Nuxt, React Native, FastAPI, Tauri (Rust)**
 - 🧩 Also work on **reverse engineering & modding tooling** (C++ memory/hook tooling, game file format converters)
-- 👨🏫 I enjoy **teaching** — wrote the internship boilerplate & phase-based guide used by PKL students
 - 📈 Last 12 months: **1,700+ commits · 260+ pull requests across 50+ repositories**
 
 ---
