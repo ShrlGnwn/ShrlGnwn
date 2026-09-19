@@ -92,3 +92,7 @@ I'm a full-stack developer based in Indonesia. I build **business-critical web a
 - **Email:** sahrulgunawan385@gmail.com 
 
 <sub>📍 Indonesia · 🌐 Indonesian &amp; English · 🕘 WIB (UTC+7)</sub>
+
+<!-- STREAK-COUNTER -->
+<sub>🔥 streak-keeper: last checked — 2026-09-19 12:17 WIB · auto-commit #2</sub>
+<!-- /STREAK-COUNTER -->
